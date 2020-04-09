@@ -1,2 +1,5 @@
 # Python-for-Finance-Repo
-Private Repo for Financial Analysis Course
+
+Repo for Udemy course Python for Financial Analysis and Algorithmic Trading
+
+https://www.udemy.com/course/python-for-finance-and-trading-algorithms/
